@@ -18,7 +18,9 @@ Projeto voltado para modelos de automl com AutoKeras, H2O, Auto-Sklearn, AdaNet
 [![](https://img.shields.io/badge/AdaNet-orange.svg)](https://github.com/tensorflow/adanet)
 
 
-![Logo](https://github.com/RafaelGallo/AutoML---Machine-learning/blob/main/857.jpg)## Versão das bibliotecas
+![Logo](https://github.com/RafaelGallo/AutoML---Machine-learning/blob/main/857.jpg)
+
+# Versão das bibliotecas
 
 | Nome             | Versão                                                                |
 | ----------------- | ------------------------------------------------------------------ |
