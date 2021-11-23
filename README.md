@@ -1,5 +1,6 @@
 # AutoML Machine learning
 
+
 Projeto voltado para modelos de automl com AutoKeras, H2O, Auto-Sklearn, AdaNet
 
 
@@ -27,7 +28,7 @@ Projeto voltado para modelos de automl com AutoKeras, H2O, Auto-Sklearn, AdaNet
 | Auto-Sklearn | Versão: 0.14.2|
 
 
-## Documentação 
+# Documentação 
 
 Auto-Keras [Documentação](https://autokeras.com/)
 
@@ -127,3 +128,8 @@ Exemplo simples como é AutoML para modelos de classificação e regressão line
   # Previsão do modelo
   predict = model.predict(model_predict)
   predict
+  
+  
+# License
+
+[MIT](https://choosealicense.com/licenses/mit/)
