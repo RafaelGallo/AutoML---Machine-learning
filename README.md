@@ -44,7 +44,7 @@ Auto-AdaNet [Documentação](https://adanet.readthedocs.io/en/v0.9.0/)
 # Instalação
 
 Instalação das bibliotecas do AutoML.
-Pode usar o comando pip para instalar as bibliotecas o pacote oficial do PyPi:
+Pode usar o comando pip para instalar as bibliotecas o pacote oficial do PyPi
 
 AutoKeras
 
