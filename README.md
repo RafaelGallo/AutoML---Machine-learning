@@ -129,8 +129,4 @@ Exemplo simples como é AutoML para modelos de classificação e regressão line
   predict = model.predict(model_predict)
   predict
   
-  
-
-# License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+ 
