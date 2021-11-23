@@ -39,7 +39,7 @@ Auto-H2O [Documentação](https://docs.h2o.ai/)
 Auto-AdaNet [Documentação](https://adanet.readthedocs.io/en/v0.9.0/)
 
 
-## Instalação
+# Instalação
 
 Instalação das bibliotecas do AutoML.
 Pode usar o comando pip para instalar as bibliotecas o pacote oficial do PyPi:
@@ -69,7 +69,7 @@ AdaNet
 ```bash
   pip install adanet
 ```
-## Demo
+# Demo
 Exemplo simples como é AutoML para modelos de classificação e regressão linear.
 
 ```bash
@@ -130,6 +130,7 @@ Exemplo simples como é AutoML para modelos de classificação e regressão line
   predict
   
   
+
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
