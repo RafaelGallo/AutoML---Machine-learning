@@ -28,6 +28,7 @@ Projeto voltado para modelos de automl com AutoKeras, H2O, Auto-Sklearn, AdaNet
 | Auto-Keras | Versão: 1.0.16|
 | H2O | Versão: 3.34.0.3|
 | Auto-Sklearn | Versão: 0.14.2|
+| PyCaret |Versão 3.0.0 |
 
 
 # Documentação 
@@ -39,6 +40,8 @@ Auto-Sklearn [Documentação](https://automl.github.io/auto-sklearn/master/api.h
 Auto-H2O [Documentação](https://docs.h2o.ai/)
 
 Auto-AdaNet [Documentação](https://adanet.readthedocs.io/en/v0.9.0/)
+
+PyCaret [Documentação](https://pycaret.gitbook.io/docs/)
 
 
 # Instalação
