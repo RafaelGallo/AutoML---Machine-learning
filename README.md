@@ -43,6 +43,21 @@ Auto-AdaNet [Documentação](https://adanet.readthedocs.io/en/v0.9.0/)
 
 PyCaret [Documentação](https://pycaret.gitbook.io/docs/)
 
+# Projeto realizados
+
+
+| Nome projeto      | Link                                                        |
+| ----------------- | ------------------------------------------------------------------ |
+| Heart analysis|   |
+| The Heart Failure Prediction | |
+| Stooke prediction  | |
+| Breast Cancer | |
+| Tweets nlp | |
+| Reddit Machine Learning Posts | |
+| House Price Predictions H20 AutoML |  |
+| Email - AutoML Benchmark - v1 |  |
+| Email - AutoML Benchmark - v2 |  |
+
 
 # Instalação
 
