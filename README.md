@@ -50,7 +50,7 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 # Projeto realizados
 | Nome projeto      | Link                                                        |
 | ----------------- | ------------------------------------------------------------------ |
-| Heart analysis|   | https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/AutoML_Heart.ipynb |
+| Heart analysis | https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/AutoML%20-%20Classificao%20Heart.ipynb| 
 | The Heart Failure Prediction |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/AutoML_Heart.ipynb |
 | Breast Cancer |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Model%20AutoML%20Breast%20Cancer.ipynb |
 | Covid19 - Provide Insights Clinical Trials |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Automl_nlp_Covid19.ipynb |
