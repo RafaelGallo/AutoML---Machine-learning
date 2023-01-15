@@ -50,15 +50,16 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 # Projeto realizados
 | Nome projeto      | Link                                                        |
 | ----------------- | ------------------------------------------------------------------ |
-| Heart analysis|   |
-| The Heart Failure Prediction | |
-| Stooke prediction  | |
-| Breast Cancer | |
-| Tweets nlp | |
-| Reddit Machine Learning Posts | |
+| Heart analysis|   | https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/AutoML_Heart.ipynb |
+| The Heart Failure Prediction |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/AutoML_Heart.ipynb |
+| Breast Cancer |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Model%20AutoML%20Breast%20Cancer.ipynb |
+| Covid19 - Provide Insights Clinical Trials |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Automl_nlp_Covid19.ipynb |
+|Stooke prediction ||
 | House Price Predictions H20 AutoML |  |
-| Email - AutoML Benchmark - v1 |  |
-| Email - AutoML Benchmark - v2 |  |
+| Tweets nlp | |
+| Natural Language Processing with Disaster Tweets| |
+| Reddit Machine Learning Posts | |
+| Email - AutoML Benchmark - v1 | |
 
 
 # Instalação
