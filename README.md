@@ -1,9 +1,5 @@
 # AutoML Machine learning
 
-
-Projeto voltado para modelos de automl com AutoKeras, H2O, Auto-Sklearn, AdaNet
-
-
 [![author](https://img.shields.io/badge/author-RafaelGallo-red.svg)](https://github.com/RafaelGallo?tab=repositories) 
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
 [![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) 
@@ -16,6 +12,8 @@ Projeto voltado para modelos de automl com AutoKeras, H2O, Auto-Sklearn, AdaNet
 [![](https://img.shields.io/badge/H2O-yellow.svg)](https://www.h2o.ai/pt/)
 [![](https://img.shields.io/badge/Auto_Sklearn-green.svg)](https://automl.github.io/auto-sklearn/master/)
 [![](https://img.shields.io/badge/AdaNet-orange.svg)](https://github.com/tensorflow/adanet)
+
+Projeto voltado para modelos de automl com pycaret com classficação, regressão, nlp.
 
 
 ![Logo](https://github.com/RafaelGallo/AutoML---Machine-learning/blob/main/857.jpg)
