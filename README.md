@@ -22,28 +22,32 @@ Projeto voltado para modelos de automl com pycaret com classficação, regressã
 
 | Nome             | Versão                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| AdaNet |  Versão: 0.9.0 |
-| Auto-Keras | Versão: 1.0.16|
-| H2O | Versão: 3.34.0.3|
-| Auto-Sklearn | Versão: 0.14.2|
 | PyCaret |Versão 3.0.0 |
 
-
-# Documentação 
-
-Auto-Keras [Documentação](https://autokeras.com/)
-
-Auto-Sklearn [Documentação](https://automl.github.io/auto-sklearn/master/api.html)
-
-Auto-H2O [Documentação](https://docs.h2o.ai/)
-
-Auto-AdaNet [Documentação](https://adanet.readthedocs.io/en/v0.9.0/)
-
+# Ducumentação Pycaret
 PyCaret [Documentação](https://pycaret.gitbook.io/docs/)
 
+## Instalação
+
+Instalação por anaconda com pycaret
+
+```bash
+# Criar um ambiente conda
+conda create --name yourenvname python=3.8
+
+# Ativar ambiente conda
+conda activate yourenvname
+
+# Instalar pycaret
+pip install pycaret
+
+# Criar kernel do notebook
+python -m ipykernel install --user --name yourenvname --display-name "display-name"
+```
+
+
+
 # Projeto realizados
-
-
 | Nome projeto      | Link                                                        |
 | ----------------- | ------------------------------------------------------------------ |
 | Heart analysis|   |
