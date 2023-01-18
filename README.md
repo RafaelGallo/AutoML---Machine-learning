@@ -55,7 +55,6 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 | Breast Cancer |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Model%20AutoML%20Breast%20Cancer.ipynb |
 | Covid19 - Provide Insights Clinical Trials |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Automl_nlp_Covid19.ipynb |
 |Stooke prediction |https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/Automl%20-%20Previs%C3%A3o%20AVC.ipynb|
-| House Price Predictions H20 AutoML |  |
 | Tweets nlp | https://github.com/Delta357/AutoML---Machine-learning/blob/main/notebook/AutoML_NLP_Tweets_.ipynb |
 | Natural Language Processing with Disaster Tweets| |
 | Reddit Machine Learning Posts | |
