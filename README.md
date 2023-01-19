@@ -30,7 +30,7 @@ PyCaret [Documentação](https://pycaret.gitbook.io/docs/)
 
 ## Instalação
 
-Instalação por anaconda com pycaret
+Instalação dos pacotes automl
 
 ```bash
 # Criar um ambiente conda
@@ -41,12 +41,12 @@ conda activate yourenvname
 
 # Instalar pycaret
 pip install pycaret
+pip install auto-sklearn
+pip install autokeras
 
 # Criar kernel do notebook
 python -m ipykernel install --user --name yourenvname --display-name "display-name"
 ```
-
-
 
 # Projeto realizados
 | Nome projeto      | Link                                                        |
