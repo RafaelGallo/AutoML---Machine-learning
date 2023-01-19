@@ -13,16 +13,17 @@
 [![](https://img.shields.io/badge/Auto_Sklearn-green.svg)](https://automl.github.io/auto-sklearn/master/)
 [![](https://img.shields.io/badge/AdaNet-orange.svg)](https://github.com/tensorflow/adanet)
 
-Projeto voltado para modelos de automl com pycaret com classficação, regressão, nlp.
-
-
 ![Logo](https://github.com/RafaelGallo/AutoML---Machine-learning/blob/main/857.jpg)
+
+Nesse repositório é um estudo de automl para como processamento de linguagem natural, classificação, regressão, cluster, é um estudo como automl pode ajudar no dia a dia de um cientista de dados. Nesse repositório afins de estudo sobe automl com pycaret, autokeras, autosklearn.
 
 # Versão das bibliotecas
 
 | Nome             | Versão                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | PyCaret |Versão 3.0.0 |
+| Auto Keras | Versão 1.0.20 |
+| Auto Sklearn | Versão 0.15.0 |
 
 # Ducumentação Pycaret
 PyCaret [Documentação](https://pycaret.gitbook.io/docs/)
